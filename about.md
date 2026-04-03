@@ -1,3 +1,4 @@
 # GodlikeFaces
 
-Geode Mod that adds back the overexaggerated faces concept for Mythic by Robtop. Art by @RobtopGemes on twitter!
+Geode mod that adds back the overexaggerated faces concept for Mythic by Robtop. Art by @RobtopGames on twitter!<br>
+Developed by AydaGD and hiimjasmine00 / Ported to Geode v5 and iOS by Ion Ion
